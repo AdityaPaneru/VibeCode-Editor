@@ -410,18 +410,6 @@ npm run lint     # ESLint check
 
 ---
 
-## Project Overview
-
-VibeCode Editor is a web-based code editor project designed to provide a clean and simple coding environment. It helps users write and manage code with an easy-to-use interface.
-
-## Key Features
-
-- Simple and responsive code editor interface
-- Clean project structure
-- Easy to run locally
-- Beginner-friendly setup
-- Suitable for learning frontend/editor-based application development
-
 ## 🙏 Acknowledgements
 
 Built with and inspired by:
