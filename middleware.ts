@@ -22,7 +22,6 @@ export default auth((req) => {
 
   if (isApiAuthRoute) {
     return null;
-    
   }
 
   if (isAuthRoute) {
